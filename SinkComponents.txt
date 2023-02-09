@@ -1,0 +1,43 @@
+Sink
+
+---- COMPONENTS ----
+CHeldBy
+CItemHolder
+CAppliance
+CApplyingProcess
+CItemProvider
+CIsInteractive
+CPosition
+CRequiresView
+CCausesSpills
+CAppliesEffect
+CEffectRangeTiles
+CTableModifier
+CLinkedView
+CBeingActedOnBy
+CAffectedBy
+CAttachments
+CDisableAutomation
+CHeldAppliance
+CRemoveView
+Marker
+CEffectAlways
+
+---- PROVIDER DEFAULT VALUES ----
+provider.Available = 0
+provider.Maximum = 0
+provider.DirectInsertionOnly = True
+provider.EmptyAtNight = False
+provider.PreventReturns = False
+provider.DestroyOnEmpty = False
+provider.AutoGrabFromHolder = False
+provider.AutoPlaceOnHolder = False
+provider.AllowRefreshes = False
+provider.ProvidedItem = 1657174953
+provider.MDefaultProvidedItemaximum = 1657174953
+
+---- POT INGREDIENT ITEM IDS ----
+BambooPot -1652763586 (Water In Pot)
+BoiledPotatoRaw -735644169
+BroccoliPot 2141493703
+BrothRawOnion = 1370203151
